@@ -36,5 +36,5 @@ Frontend: `cd frontend`, create `.env` (see `.env.example`), `npm install`, `npm
 - **Employee**: name, email, position, department, salary, user (reference to User)
 
 ## Live links
-- Frontend: (add Vercel link)
-- Backend: (add Vercel link)
+- Frontend: https://employee-manager-fullstack-a65s.vercel.app
+- Backend:  https://employee-manager-fullstack.vercel.app
